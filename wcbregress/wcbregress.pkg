@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'wcbregress': Linear Regression Model with Clustered Errors Using the Wild Cluster Bootstrap Standard Errors Use wcbregress With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f wcbregress.ado
+f wcbregress.sthlp
