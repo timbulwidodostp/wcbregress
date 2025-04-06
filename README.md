@@ -5,6 +5,8 @@ Linear Regression Model and Carrying Accurate Inference with Clustered Errors Us
 
 Wild Cluster Bootstrap Linear regression Use wcbregress With STATA 18
 
+https://www.youtube.com/watch?v=VJQ-KzjUJqE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
